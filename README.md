@@ -35,378 +35,99 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The raging Turke, or, Baiazet the Second A tragedie vvritten by Thomas Goffe, Master of Arts, and st
+
+1. TO THE NO LESSE
+INGENIOVS THEN ZEALOVS
+fauourer of ingenuity, Sir RICHARD
+T•CHBOVRNE Knight, &c.
+The Names of the Actors▪Baiazet, Emperour. Zemes, Baiazets brother.his Sonnes.Mahomates Tartarian Ki
 #####Body#####
 
-1. Actus Primi,
+1. THE RAGING TVRKE,
+Or the Tragedie of BAIAZET,
+the second of that name.
 
-    _ Scena Prima.
+    _ Actus Primi,
 
-    _ Actus Primi, Scena Secunda.
+      * Scena Prima.
 
-    _ Actus Primi, Scena Tertia,
+      * Actus Primi, Scena Secunda.
 
-    _ Actus Primi, Sccena Quarta.
+      * Actus Primi, Scena Tertia,
 
-    _ Actus Primi, Scena Quinta.
+      * Actus Primi, Sccena Quarta.
 
-    _ Actus Primi, Scena Sexta.
+      * Actus Primi, Scena Quinta.
 
-    _ Actus Primi, Scena Septima.
+      * Actus Primi, Scena Sexta.
 
-    _ Actus Primi, Scena Octaua.
+      * Actus Primi, Scena Septima.
 
-    _ Scena Prima.
+      * Actus Primi, Scena Octaua.
 
-    _ Actus Secundi, Scena Secunda.
+    _ Actus Secundi,
 
-    _ Actus Secundi, Scena Tertia.
+      * Scena Prima.
 
-    _ Actus Secundi, Scena Quarta.
+      * Actus Secundi, Scena Secunda.
 
-    _ Actus Secundi, Scena Quinta,
+      * Actus Secundi, Scena Tertia.
 
-    _ Actus Secundi, Scena Sexta.
+      * Actus Secundi, Scena Quarta.
 
-    _ Actus Secundi, Scena Septima.
+      * Actus Secundi, Scena Quinta,
 
-    _ Actus Secundi, Scena Ostaua.
+      * Actus Secundi, Scena Sexta.
 
-    _ Scena Prima,
+      * Actus Secundi, Scena Septima.
 
-    _ Actus Tertij, Scena Tertia.
+      * Actus Secundi, Scena Ostaua.
 
-    _ Actus Tertii, Scena Quarta.
+    _ Actus Tertij,
 
-    _ Actus Tert•i, Scena Quinta.
+      * Scena Prima,
 
-    _ Scena Prima.
+      * Actus Tertij, Scena Tertia.
 
-    _ Actus Quarti, Scena Secunda.
+      * Actus Tertii, Scena Quarta.
 
-    _ Act•s Quarti, Scena Tert••
+      * Actus Tert•i, Scena Quinta.
 
-    _ Actus Quarti, Scena Quinta.
+    _ Actus Quarti,
 
-    _ Actus Qu•rti, Scena Sexta.
+      * Scena Prima.
 
-    _ Actus Quarti, Scena Septima.
+      * Actus Quarti, Scena Secunda.
 
-    _ Scena Prima.
+      * Act•s Quarti, Scena Tert••
 
-    _ Actus Quinti, Scena Secunda.
+      * Actus Quarti, Scena Quinta.
 
-    _ Actus Quinti, Scena Tertia.
+      * Actus Qu•rti, Scena Sexta.
 
-    _ Actus quinti, Scena quarta.
+      * Actus Quarti, Scena Septima.
 
-    _ Actus quinti, Scena quinta.
+    _ Actus Quinti,
 
-    _ Actus Quinti, Scena Sexta.
+      * Scena Prima.
 
-    _ Actus Quinti, Scena Septima.
+      * Actus Quinti, Scena Secunda.
 
-    _ Actus Quinti, Scena Octaua.
+      * Actus Quinti, Scena Tertia.
 
-    _ Actus Quinti, Scena Nona.
+      * Actus quinti, Scena quarta.
 
-    _ Actus Quinti, Scena Decima.
+      * Actus quinti, Scena quinta.
 
-1. Actus Secundi,
+      * Actus Quinti, Scena Sexta.
 
-    _ Scena Prima.
+      * Actus Quinti, Scena Septima.
 
-    _ Actus Primi, Scena Secunda.
+      * Actus Quinti, Scena Octaua.
 
-    _ Actus Primi, Scena Tertia,
+      * Actus Quinti, Scena Nona.
 
-    _ Actus Primi, Sccena Quarta.
-
-    _ Actus Primi, Scena Quinta.
-
-    _ Actus Primi, Scena Sexta.
-
-    _ Actus Primi, Scena Septima.
-
-    _ Actus Primi, Scena Octaua.
-
-    _ Scena Prima.
-
-    _ Actus Secundi, Scena Secunda.
-
-    _ Actus Secundi, Scena Tertia.
-
-    _ Actus Secundi, Scena Quarta.
-
-    _ Actus Secundi, Scena Quinta,
-
-    _ Actus Secundi, Scena Sexta.
-
-    _ Actus Secundi, Scena Septima.
-
-    _ Actus Secundi, Scena Ostaua.
-
-    _ Scena Prima,
-
-    _ Actus Tertij, Scena Tertia.
-
-    _ Actus Tertii, Scena Quarta.
-
-    _ Actus Tert•i, Scena Quinta.
-
-    _ Scena Prima.
-
-    _ Actus Quarti, Scena Secunda.
-
-    _ Act•s Quarti, Scena Tert••
-
-    _ Actus Quarti, Scena Quinta.
-
-    _ Actus Qu•rti, Scena Sexta.
-
-    _ Actus Quarti, Scena Septima.
-
-    _ Scena Prima.
-
-    _ Actus Quinti, Scena Secunda.
-
-    _ Actus Quinti, Scena Tertia.
-
-    _ Actus quinti, Scena quarta.
-
-    _ Actus quinti, Scena quinta.
-
-    _ Actus Quinti, Scena Sexta.
-
-    _ Actus Quinti, Scena Septima.
-
-    _ Actus Quinti, Scena Octaua.
-
-    _ Actus Quinti, Scena Nona.
-
-    _ Actus Quinti, Scena Decima.
-
-1. Actus Tertij,
-
-    _ Scena Prima.
-
-    _ Actus Primi, Scena Secunda.
-
-    _ Actus Primi, Scena Tertia,
-
-    _ Actus Primi, Sccena Quarta.
-
-    _ Actus Primi, Scena Quinta.
-
-    _ Actus Primi, Scena Sexta.
-
-    _ Actus Primi, Scena Septima.
-
-    _ Actus Primi, Scena Octaua.
-
-    _ Scena Prima.
-
-    _ Actus Secundi, Scena Secunda.
-
-    _ Actus Secundi, Scena Tertia.
-
-    _ Actus Secundi, Scena Quarta.
-
-    _ Actus Secundi, Scena Quinta,
-
-    _ Actus Secundi, Scena Sexta.
-
-    _ Actus Secundi, Scena Septima.
-
-    _ Actus Secundi, Scena Ostaua.
-
-    _ Scena Prima,
-
-    _ Actus Tertij, Scena Tertia.
-
-    _ Actus Tertii, Scena Quarta.
-
-    _ Actus Tert•i, Scena Quinta.
-
-    _ Scena Prima.
-
-    _ Actus Quarti, Scena Secunda.
-
-    _ Act•s Quarti, Scena Tert••
-
-    _ Actus Quarti, Scena Quinta.
-
-    _ Actus Qu•rti, Scena Sexta.
-
-    _ Actus Quarti, Scena Septima.
-
-    _ Scena Prima.
-
-    _ Actus Quinti, Scena Secunda.
-
-    _ Actus Quinti, Scena Tertia.
-
-    _ Actus quinti, Scena quarta.
-
-    _ Actus quinti, Scena quinta.
-
-    _ Actus Quinti, Scena Sexta.
-
-    _ Actus Quinti, Scena Septima.
-
-    _ Actus Quinti, Scena Octaua.
-
-    _ Actus Quinti, Scena Nona.
-
-    _ Actus Quinti, Scena Decima.
-
-1. Actus Quarti,
-
-    _ Scena Prima.
-
-    _ Actus Primi, Scena Secunda.
-
-    _ Actus Primi, Scena Tertia,
-
-    _ Actus Primi, Sccena Quarta.
-
-    _ Actus Primi, Scena Quinta.
-
-    _ Actus Primi, Scena Sexta.
-
-    _ Actus Primi, Scena Septima.
-
-    _ Actus Primi, Scena Octaua.
-
-    _ Scena Prima.
-
-    _ Actus Secundi, Scena Secunda.
-
-    _ Actus Secundi, Scena Tertia.
-
-    _ Actus Secundi, Scena Quarta.
-
-    _ Actus Secundi, Scena Quinta,
-
-    _ Actus Secundi, Scena Sexta.
-
-    _ Actus Secundi, Scena Septima.
-
-    _ Actus Secundi, Scena Ostaua.
-
-    _ Scena Prima,
-
-    _ Actus Tertij, Scena Tertia.
-
-    _ Actus Tertii, Scena Quarta.
-
-    _ Actus Tert•i, Scena Quinta.
-
-    _ Scena Prima.
-
-    _ Actus Quarti, Scena Secunda.
-
-    _ Act•s Quarti, Scena Tert••
-
-    _ Actus Quarti, Scena Quinta.
-
-    _ Actus Qu•rti, Scena Sexta.
-
-    _ Actus Quarti, Scena Septima.
-
-    _ Scena Prima.
-
-    _ Actus Quinti, Scena Secunda.
-
-    _ Actus Quinti, Scena Tertia.
-
-    _ Actus quinti, Scena quarta.
-
-    _ Actus quinti, Scena quinta.
-
-    _ Actus Quinti, Scena Sexta.
-
-    _ Actus Quinti, Scena Septima.
-
-    _ Actus Quinti, Scena Octaua.
-
-    _ Actus Quinti, Scena Nona.
-
-    _ Actus Quinti, Scena Decima.
-
-1. Actus Quinti,
-
-    _ Scena Prima.
-
-    _ Actus Primi, Scena Secunda.
-
-    _ Actus Primi, Scena Tertia,
-
-    _ Actus Primi, Sccena Quarta.
-
-    _ Actus Primi, Scena Quinta.
-
-    _ Actus Primi, Scena Sexta.
-
-    _ Actus Primi, Scena Septima.
-
-    _ Actus Primi, Scena Octaua.
-
-    _ Scena Prima.
-
-    _ Actus Secundi, Scena Secunda.
-
-    _ Actus Secundi, Scena Tertia.
-
-    _ Actus Secundi, Scena Quarta.
-
-    _ Actus Secundi, Scena Quinta,
-
-    _ Actus Secundi, Scena Sexta.
-
-    _ Actus Secundi, Scena Septima.
-
-    _ Actus Secundi, Scena Ostaua.
-
-    _ Scena Prima,
-
-    _ Actus Tertij, Scena Tertia.
-
-    _ Actus Tertii, Scena Quarta.
-
-    _ Actus Tert•i, Scena Quinta.
-
-    _ Scena Prima.
-
-    _ Actus Quarti, Scena Secunda.
-
-    _ Act•s Quarti, Scena Tert••
-
-    _ Actus Quarti, Scena Quinta.
-
-    _ Actus Qu•rti, Scena Sexta.
-
-    _ Actus Quarti, Scena Septima.
-
-    _ Scena Prima.
-
-    _ Actus Quinti, Scena Secunda.
-
-    _ Actus Quinti, Scena Tertia.
-
-    _ Actus quinti, Scena quarta.
-
-    _ Actus quinti, Scena quinta.
-
-    _ Actus Quinti, Scena Sexta.
-
-    _ Actus Quinti, Scena Septima.
-
-    _ Actus Quinti, Scena Octaua.
-
-    _ Actus Quinti, Scena Nona.
-
-    _ Actus Quinti, Scena Decima.
+      * Actus Quinti, Scena Decima.
 
 **Types of content**
 
